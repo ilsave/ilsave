@@ -2,8 +2,8 @@
 
 ## I'm a Student, person interested in android programming, Developer, and football player!
 
-- 🔭 I’m currently working on learning Kotlin for android development
-- 🥅 2020 Goals: became a strong mobile programmer
+- 🔭 I’m currently working on learning Kotlin/Java for android development
+- 🥅 2020 Goals: became a strong mobile/Java programmer
 - ⚡ Fun fact: Im Bayern Munich fun (()(())())00
 
 
