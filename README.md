@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on learning Kotlin/Java for android development
 - 🥅 2020 Goals: became a strong mobile/Java programmer
-- ⚡ Fun fact: Im Bayern Munich fun (()(())())00
+- ⚡ Fun fact: Im Bayern Munich fan (()(())())00
 
 
 
