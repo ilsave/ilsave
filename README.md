@@ -3,7 +3,7 @@
 ## I'm a Student, person interested in android programming, Developer, and football player!
 
 - 🔭 I’m currently working on learning Kotlin/Java for android development
-- 🥅 2020 Goals: became a strong mobile/Java programmer
+- 🥅 2021 Goals: became a middle mobile engineer
 - ⚡ Fun fact: Im Bayern Munich fan (()(())())00
 
 
