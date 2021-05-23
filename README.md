@@ -2,7 +2,7 @@
 
 ## I'm a Student, person interested in android programming, Developer, and football player!
 
-- 🔭 I’m currently working on learning Kotlin/Java for android development
+- 🔭 I’m currently working on learning Kotlin for android development, also ios xcode hater 
 - 🥅 2021 Goals: become a middle mobile engineer
 - ⚡ Fun fact: Im Bayern Munich fan (()(())())00
 
